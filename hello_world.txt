@@ -1,0 +1,3 @@
+"hello."
+"wassup."
+"cypher is kinda fun to play."
